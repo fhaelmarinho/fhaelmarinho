@@ -29,17 +29,17 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 -Dicas para quem está começando do zero.
 
 ### 2. Projetos Práticos
--Ideias de projetos para colocar a mão na massa.
--Códigos comentados e fáceis de entender.
--Desafios para testar suas habilidades.
+- Ideias de projetos para colocar a mão na massa.
+- Códigos comentados e fáceis de entender.
+- Desafios para testar suas habilidades.
 
 ### 3. Ferramentas e Recursos
--Indicações de ferramentas úteis para aprender e praticar.
--Links para cursos, livros e comunidades.
--Guias de instalação e configuração de ambientes de desenvolvimento.
+- Indicações de ferramentas úteis para aprender e praticar.
+- Links para cursos, livros e comunidades.
+- Guias de instalação e configuração de ambientes de desenvolvimento.
 
 ### 4. Inspiração Nerd
--Referências a filmes, séries e games que todo nerd ama.
--Analogias criativas para explicar conceitos complexos.
--Uma pitada de humor geek para tornar o aprendizado mais leve.
+- Referências a filmes, séries e games que todo nerd ama.
+- Analogias criativas para explicar conceitos complexos.
+- Uma pitada de humor geek para tornar o aprendizado mais leve.
 
