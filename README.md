@@ -1,5 +1,5 @@
-## Oi eu sou o Rafael, 
- Mestre em Ciência da Informação e Tecnólogo em Sistemas para Internet, atuo desde 2008 com UX e interfaces digitais.  
+## ```Hello World``` Oi eu sou o Rafael, 
+Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se encontram! Sou um entusiasta da programação, um curioso incansável e, acima de tudo, um professor dedicado a compartilhar conhecimentos que transformam vidas. Aqui, você encontrará conteúdos feitos especialmente para iniciantes em tecnologia, com uma abordagem clara, prática e, claro, cheia daquela vibe nerd que torna tudo mais divertido! 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
