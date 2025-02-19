@@ -8,6 +8,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+  </br>
   
   ##
  
@@ -21,6 +22,9 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   
 </div>
 
+</br>
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=radical)
 
 ## O Que Você Vai Encontrar Aqui?
 ### 1. Conteúdos para Iniciantes
