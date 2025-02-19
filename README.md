@@ -1,4 +1,4 @@
-## ```Hello World!``` Oi eu sou o Rafael 
+## ```<Hello World>```  Oi, eu sou o Rafael. 
 Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se encontram! Sou um entusiasta da programação, um curioso incansável e, acima de tudo, um professor dedicado a compartilhar conhecimentos que transformam vidas. Aqui, você encontrará conteúdos feitos especialmente para iniciantes em tecnologia, com uma abordagem clara, prática e, claro, cheia daquela vibe nerd que torna tudo mais divertido! 
 
 <div style="display: inline_block"><br>
@@ -24,9 +24,9 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 
 ## O Que Você Vai Encontrar Aqui?
 ### 1. Conteúdos para Iniciantes
--Tutoriais passo a passo.
--Explicações simples e diretas.
--Dicas para quem está começando do zero.
+- Tutoriais passo a passo.
+- Explicações simples e diretas.
+- Dicas para quem está começando do zero.
 
 ### 2. Projetos Práticos
 - Ideias de projetos para colocar a mão na massa.
