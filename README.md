@@ -1,4 +1,4 @@
-# Rafael Marinho
+# :technologist: Rafael Marinho
 ```Desenvolvedor Web```
 
 Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se encontram! Sou um entusiasta da programação, um curioso incansável e, acima de tudo, um professor dedicado a compartilhar conhecimentos que transformam vidas. Aqui, você encontrará conteúdos feitos especialmente para iniciantes em tecnologia, com uma abordagem clara, prática e, claro, cheia daquela vibe nerd que torna tudo mais divertido! 
