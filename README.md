@@ -27,7 +27,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   </br>
   
 
-## O Que Você Vai Encontrar Aqui?
+### O Que Você Vai Encontrar Aqui?
 ### 1. Conteúdos para Iniciantes
 - Tutoriais passo a passo.
 - Explicações simples e diretas.
@@ -47,4 +47,20 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 - Referências a filmes, séries e games que todo nerd ama.
 - Analogias criativas para explicar conceitos complexos.
 - Uma pitada de humor geek para tornar o aprendizado mais leve.
+
+</br>
+
+  ### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
+
 
