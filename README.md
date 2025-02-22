@@ -61,6 +61,8 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
     src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+
 </p>
 
 
