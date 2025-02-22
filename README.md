@@ -25,6 +25,22 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   </br>
+
+  ### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+
+</p>
+
   
 
 ### O Que Você Vai Encontrar Aqui?
@@ -49,20 +65,4 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 - Uma pitada de humor geek para tornar o aprendizado mais leve.
 
 </br>
-
-  ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=tokyonight&size_weight=0.5&count_weight=0.5)
-
-</p>
-
 
