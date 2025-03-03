@@ -41,7 +41,10 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 
 </p>
 
-  
+<img
+alt = Python Badget
+src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n"
+/>
 
 ### O Que Você Vai Encontrar Aqui?
 ### 1. Conteúdos para Iniciantes
