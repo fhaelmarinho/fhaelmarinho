@@ -45,6 +45,10 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 alt = Python Badget
 src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n"
 />
+<img
+ alt = GitHub Certification
+ src ="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" 
+/>
 
 ### O Que Você Vai Encontrar Aqui?
 ### 1. Conteúdos para Iniciantes
