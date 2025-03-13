@@ -54,6 +54,10 @@ src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:
  alt ="Python Fundamentals"
  src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n"
  />
+ <img 
+  alt="Notion Esudo" height="120" 
+  src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png"
+  />
 
 ### O Que Você Vai Encontrar Aqui?
 ### 1. Conteúdos para Iniciantes
