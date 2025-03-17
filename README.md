@@ -1,4 +1,4 @@
-# >_ Rafael Marinho  ​
+# >_ Rafael Marinho         ​<img height="15" src="https://aleen42.github.io/badges/src/superuser.svg">
 **Web Developer | Technology Teacher** 
 
 Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
@@ -11,20 +11,11 @@ Welcome to my world, where a passion for technology and the desire to teach come
   <a href="https://www.youtube.com/@codewithfhael" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://instagram.com/rafaelmarinhobr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.twitch.tv/falcie5" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a> 
   <a href="mailto:fhaelmarinho@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/rafaelmarinho71" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%232E87FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>  
 
@@ -33,16 +24,15 @@ Welcome to my world, where a passion for technology and the desire to teach come
 ### 🛠️ Languages and Technologies  
 
 <div style="display: inline_block">
- 
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-2D8CFF?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-2D8CFF?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2D8CFF?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-2D8CFF?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-2D8CFF?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-2D8CFF?style=for-the-badge&logo=git&logoColor=white"> 
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-2D8CFF?style=for-the-badge&logo=linux&logoColor=white""> 
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-2D8CFF?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%232D8CFF.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-8e00cd?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-8e00cd?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-8e00cd?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-8e00cd?style=for-the-badge&logo=git&logoColor=white"> 
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-8e00cd?style=for-the-badge&logo=linux&logoColor=white""> 
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-8e00cd.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>  
 
 ---
@@ -54,12 +44,12 @@ Welcome to my world, where a passion for technology and the desire to teach come
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=algolia&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=midnight-purple&include_all_commits=true" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=algolia&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=midnight-purple&size_weight=0.5&count_weight=0.5"
   />
 </div>  
 
