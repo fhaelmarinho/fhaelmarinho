@@ -4,7 +4,6 @@
 Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se encontram! Sou um entusiasta da programação, um curioso incansável e, acima de tudo, um professor dedicado a compartilhar conhecimentos que transformam vidas. Aqui, você encontrará conteúdos feitos especialmente para iniciantes em tecnologia, com uma abordagem clara, prática e, claro, cheia daquela vibe nerd que torna tudo mais divertido!
 
 
-
 ## 🌐 Conecte-se Comigo
 
 <div> 
@@ -41,7 +40,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>
 
----
+<br>
 
 ## 📊 Estatísticas do GitHub
 
@@ -59,7 +58,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   />
 </div>
 
----
+<br>
 
 ## 🏆 Certificações e Conquistas
 
@@ -70,7 +69,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   <img alt="Notion Escudo" height="120" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png" />
 </div>
 
----
+<br>
 
 ## 🚀 O Que Você Vai Encontrar Aqui?
 
