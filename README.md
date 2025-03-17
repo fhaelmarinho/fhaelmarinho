@@ -54,12 +54,12 @@ Welcome to my world, where a passion for technology and the desire to teach come
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=blue-green&include_all_commits=true" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=tokyonight&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=blue-green&size_weight=0.5&count_weight=0.5"
   />
 </div>  
 
