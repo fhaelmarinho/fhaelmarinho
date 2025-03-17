@@ -41,6 +41,8 @@ Welcome to my world, where a passion for technology and the desire to teach come
   <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-239120?style=for-the-badge&logo=linux&logoColor=white""> 
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%231B72BE.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>  
 
 ---
