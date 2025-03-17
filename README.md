@@ -28,8 +28,6 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   </a> 
 </div>  
 
----
-
 ## 🛠️ Linguagens e Tecnologias  
 
 <div style="display: inline_block">
@@ -41,7 +39,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>  
 
----
+
 
 ## 📊 Estatísticas do GitHub  
 
@@ -59,7 +57,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   />
 </div>  
 
----
+
 
 ## 🏆 Certificações e Conquistas  
 
@@ -69,30 +67,6 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
   <img alt="GitHub Certification" height="120" src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" />
   <img alt="Notion Escudo" height="120" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png" />
 </div>  
-
----
-
-## 🚀 O Que Você Vai Encontrar Aqui?  
-
-### 📚 Conteúdos para Iniciantes  
-- Tutoriais passo a passo.  
-- Explicações simples e diretas.  
-- Dicas para quem está começando do zero.  
-
-### 🛠️ Projetos Práticos  
-- Ideias de projetos para colocar a mão na massa.  
-- Códigos comentados e fáceis de entender.  
-- Desafios para testar suas habilidades.  
-
-### � Ferramentas e Recursos  
-- Indicações de ferramentas úteis para aprender e praticar.  
-- Links para cursos, livros e comunidades.  
-- Guias de instalação e configuração de ambientes de desenvolvimento.  
-
-### 🎮 Inspiração Nerd  
-- Referências a filmes, séries e games que todo nerd ama.  
-- Analogias criativas para explicar conceitos complexos.  
-- Uma pitada de humor geek para tornar o aprendizado mais leve.  
 
 ---
 
