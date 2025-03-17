@@ -1,11 +1,11 @@
-# 👨‍💻 Rafael Marinho  
-**Web Developer | Technology Teacher**  
+# 👨‍💻 Rafael Marinho  ​
+**Web Developer | Technology Teacher** 
 
 Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
 
-<br>
+---
 
-## 🌐 Connect with Me  
+### 🌐 Connect with Me  
 
 <div> 
   <a href="https://www.youtube.com/@codewithfhael" target="_blank">
@@ -28,9 +28,9 @@ Welcome to my world, where a passion for technology and the desire to teach come
   </a> 
 </div>  
 
-<br>
+---
 
-## 🛠️ Languages and Technologies  
+### 🛠️ Languages and Technologies  
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -41,9 +41,9 @@ Welcome to my world, where a passion for technology and the desire to teach come
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>  
 
-<br>
+---
 
-## 📊 GitHub Statistics  
+### 📊 GitHub Statistics  
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img 
@@ -59,9 +59,9 @@ Welcome to my world, where a passion for technology and the desire to teach come
   />
 </div>  
 
-<br>
+---
 
-## 🏆 Certifications and Achievements  
+### 🏆 Certifications and Achievements  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img alt="Python Badge" height="120" src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" />
