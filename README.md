@@ -80,6 +80,6 @@ src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:
 - Analogias criativas para explicar conceitos complexos.
 - Uma pitada de humor geek para tornar o aprendizado mais leve.
 
-Made with 💜 by Rafael Marinho ![]
+Made with 💜 by Rafael
 </br>
 
