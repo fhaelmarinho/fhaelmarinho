@@ -1,11 +1,11 @@
 # 👨‍💻 Rafael Marinho  
-**Desenvolvedor Web | Professor de Tecnologia**  
+**Web Developer | Technology Teacher**  
 
-Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se encontram! Sou um entusiasta da programação, um curioso incansável e, acima de tudo, um professor dedicado a compartilhar conhecimentos que transformam vidas. Aqui, você encontrará conteúdos feitos especialmente para iniciantes em tecnologia, com uma abordagem clara, prática e, claro, cheia daquela vibe nerd que torna tudo mais divertido!  
+Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
 
 <br>
 
-## 🌐 Conecte-se Comigo  
+## 🌐 Connect with Me  
 
 <div> 
   <a href="https://www.youtube.com/@codewithfhael" target="_blank">
@@ -27,9 +27,10 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>  
+
 <br>
 
-## 🛠️ Linguagens e Tecnologias  
+## 🛠️ Languages and Technologies  
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,7 +43,7 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 
 <br>
 
-## 📊 Estatísticas do GitHub  
+## 📊 GitHub Statistics  
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img 
@@ -60,15 +61,15 @@ Bem-vindo ao meu mundo, onde a paixão pela tecnologia e o desejo de ensinar se 
 
 <br>
 
-## 🏆 Certificações e Conquistas  
+## 🏆 Certifications and Achievements  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img alt="Python Badge" height="120" src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" />
   <img alt="Python Fundamentals" height="120" src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" />
   <img alt="GitHub Certification" height="120" src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" />
-  <img alt="Notion Escudo" height="120" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png" />
+  <img alt="Notion Shield" height="120" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png" />
 </div>  
 
 ---
 
-Feito com 💜 por **Rafael Marinho**  
+Made with 💜 by **Rafael Marinho**  
