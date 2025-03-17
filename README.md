@@ -1,4 +1,4 @@
-# 👨‍💻 Rafael Marinho  ​
+# >_ Rafael Marinho  ​
 **Web Developer | Technology Teacher** 
 
 Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
@@ -39,6 +39,7 @@ Welcome to my world, where a passion for technology and the desire to teach come
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
 </div>  
 
 ---
