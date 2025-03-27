@@ -44,7 +44,8 @@ Welcome to my world, where a passion for technology and the desire to teach come
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=midnight-purple&include_all_commits=true"
+    />
   <img 
     alt="Top Langs" 
     height="200" 
