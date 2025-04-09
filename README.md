@@ -8,7 +8,7 @@ Welcome to my world, where a passion for technology and the desire to teach come
 ### 🌐 Connect with Me  
 
 <div> 
-  <a href="https://www.linkedin.com/in/rafaelmarinho71" target="_blank">
+  <a href="https://www.linkedin.com/in/fhaelmarinho" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%232E87FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
      </a> 
   <a href="https://www.youtube.com/@codewithfhael" target="_blank">
