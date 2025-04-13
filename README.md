@@ -63,6 +63,7 @@ Welcome to my world, where a passion for technology and the desire to teach come
   <img alt="Python Fundamentals" height="120" src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" />
   <img alt="GitHub Certification" height="120" src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" />
   <img alt="Notion Shield" height="120" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png" />
+  <img alt="Data Beginer" height="120" src="https://bip.brightspace.com/31b3293b-2f2a-4c20-ae81-70694e5d5ddc/d2l/awards/v2/openbadges/394/badge/image?shareType=4" />
 </div>  
 
 ---
