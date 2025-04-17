@@ -1,5 +1,5 @@
 # >_ Rafael Marinho         ​<img height="15" src="https://aleen42.github.io/badges/src/superuser.svg">
-*Full-Stack Developer** 
+**Full-Stack Developer** 
 
 Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
 
