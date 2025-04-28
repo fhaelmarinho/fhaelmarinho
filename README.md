@@ -1,6 +1,9 @@
-# >_ Rafael Marinho         ​<img height="15" src="https://aleen42.github.io/badges/src/superuser.svg">
+![banner)](/banner.png)<br>
+
+# >_ Rafael Marinho
 **Full-Stack Developer** 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
 
 ---
@@ -41,17 +44,15 @@ Welcome to my world, where a passion for technology and the desire to teach come
 ### 📊 GitHub Statistics  
 
 <div style="display: flex; align-items: center; gap: 20px;">
+
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=midnight-purple&include_all_commits=false"
     />
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=midnight-purple&size_weight=0.5&count_weight=0.5"
-  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" height="200" align="center"> <br>  
+  
 </div>  
 
 ---
