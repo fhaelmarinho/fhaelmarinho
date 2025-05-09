@@ -1,7 +1,7 @@
 ![banner)](/banner.png)<br>
 
 # >_ Rafael Marinho
-**Full-Stack Developer** 
+**Back-end Developer** 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
