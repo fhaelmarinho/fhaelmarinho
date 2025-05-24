@@ -4,7 +4,11 @@
 **Back-end Developer** 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
-Welcome to my world, where a passion for technology and the desire to teach come together! I am a programming enthusiast, an endlessly curious learner, and, above all, a dedicated teacher committed to sharing knowledge that transforms lives. Here, you'll find content specially designed for beginners in technology, with a clear, practical approach, and, of course, a nerdy vibe that makes everything more fun!  
+Back-end Developer com foco em Python, experiência prática com Django e FastAPI, e atuação full stack júnior em projetos que integram APIs robustas, interfaces funcionais e experiência do usuário. Atuo em squads ágeis no Brasil e na Europa, com entregas alinhadas a boas práticas de engenharia de software e foco em valor de negócio.
+
+Tenho background em UX e Product Ownership, o que me proporciona uma visão 360º entre código, produto e pessoas. Desenvolvo soluções com banco de dados relacionais (PostgreSQL, MySQL), automações em Python e análise de dados com Pandas, NumPy e Matplotlib.
+
+Atualmente, estou em constante evolução técnica — participando do desafio #100DaysOfCode  
 
 ---
 
