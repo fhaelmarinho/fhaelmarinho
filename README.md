@@ -70,4 +70,30 @@ Welcome to my world, where a passion for technology and the desire to teach come
 
 ---
 
+### 📌 Destaques Recentes
+
+🔹 **[Análise de Dados - Portal da Transparência](https://github.com/fhaelmarinho/analise_de_dados-portal_da_transparencia)**  
+Coleta, limpeza e visualização de dados públicos com Pandas e Matplotlib.  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+🔹 **[Auto Weather Bot](https://github.com/fhaelmarinho/auto_weather)**  
+Bot de clima com integração via API do Telegram e backend em FastAPI.  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+🔹 **[Spotify Recommendation](https://github.com/fhaelmarinho/spotify_recommendations)**  
+API REST com recomendações de músicas baseada em gêneros e artistas.  
+![REST API](https://img.shields.io/badge/-REST%20API-4CAF50?style=flat&logo=swagger&logoColor=white)
+
+🔹 **[100 Days of Code](https://github.com/fhaelmarinho/100DaysOfCode)**  
+Repositório com desafios diários, prática de lógica e projetos com Python.  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+🔹 **[Conversor de PDF para Docx](https://github.com/fhaelmarinho/PDFtoDOCX)**  
+App desktop com Tkinter para conversão automática de arquivos.  
+![Tkinter](https://img.shields.io/badge/-Tkinter-FF9800?style=flat&logo=python&logoColor=white)
+
+
+
+---
+
 Made with 💜 by **Rafael Marinho**  
