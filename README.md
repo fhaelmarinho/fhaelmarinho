@@ -96,7 +96,9 @@ Repositório com desafios diários, prática de lógica e projetos com Python.
 App desktop com Tkinter para conversão automática de arquivos.  
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF9800?style=flat&logo=python&logoColor=white)
 
-
+🔹 **[API Amazon](https://github.com/fhaelmarinho/Amazon-API/blob/main/main.py)**  
+Script Python que interage com a API da Amazon para obter dados em tempo real.  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
