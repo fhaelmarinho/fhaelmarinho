@@ -80,6 +80,10 @@ Atualmente, estou em constante evolução técnica — participando do desafio #
 Coleta, limpeza e visualização de dados públicos com Pandas e Matplotlib.  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
+🔹 **[Busca CEP](https://buscacepfastapi-production.up.railway.app/docs)**  
+Consulta de endereços que interage com a API da ViaCEP para obter os dados de localização.  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 🔹 **[Auto Weather Bot](https://github.com/fhaelmarinho/auto_weather)**  
 Bot de clima com integração via API do Telegram e backend em FastAPI.  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
