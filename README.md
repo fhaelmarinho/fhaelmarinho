@@ -24,6 +24,8 @@ Atualmente, estou em constante evolução técnica — participando do desafio #
   <a href="mailto:fhaelmarinho@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://www.calendly.com/fhaelmarinhodev/consultoria" target="_blank">
+    <img src="https://img.shields.io/badge/Calendly-126fa5?style=for-the-badge&logo=calendly&logoColor=white" alt="calendly">
   
 </div>  
 
