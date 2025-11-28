@@ -4,11 +4,7 @@
 **Back-end Developer** 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
-Back-end Developer com foco em Python, experiência prática com Django e FastAPI, e atuação full stack júnior em projetos que integram APIs robustas, interfaces funcionais e experiência do usuário. Atuo em squads ágeis no Brasil e na Europa, com entregas alinhadas a boas práticas de engenharia de software e foco em valor de negócio.
-
-Tenho background em UX e Product Ownership, o que me proporciona uma visão 360º entre código, produto e pessoas. Desenvolvo soluções com banco de dados relacionais (PostgreSQL, MySQL), automações em Python e análise de dados com Pandas, NumPy e Matplotlib.
-
-Atualmente, estou em constante evolução técnica — participando do desafio #100DaysOfCode  
+Desenvolvedor Back-End com foco em Python 3 e APIs REST. Experiência em construção e manutenção de serviços escaláveis com FastAPI e Flask, integração com bancos de dados, pipelines de dados, testes automatizados e práticas de DevOps com Docker, GitHub Actions, CI/CD, Linux e AWS). Forte diferencial na área de produto, com vivência prévia como Arquiteto de Informação e Product Owner, garantindo que as entregas técnicas estejam alinhadas à estratégia de negócio e à usabilidade. 
 
 ---
 
