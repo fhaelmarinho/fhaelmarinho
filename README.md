@@ -1,4 +1,4 @@
-![banner)](/banner.png)<br>
+![banner](White%20Minimalist%20Profile%20LinkedIn%20Banner(1).png)
 
 # >_ Rafael Marinho
 **Back-end Developer** 
