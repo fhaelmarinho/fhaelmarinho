@@ -95,8 +95,8 @@ Repositório com desafios diários, prática de lógica e projetos com Python.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🔹 **[Conversor de PDF para Docx](https://github.com/fhaelmarinho/PDFtoDOCX)**  
-App desktop com Tkinter para conversão automática de arquivos.  
-![Tkinter](https://img.shields.io/badge/-Tkinter-FF9800?style=flat&logo=python&logoColor=white)
+App com interface web para conversão automática de arquivos.  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 🔹 **[API Amazon](https://github.com/fhaelmarinho/Amazon-API/blob/main/main.py)**  
 Script Python que interage com a API da Amazon para obter dados em tempo real.  
