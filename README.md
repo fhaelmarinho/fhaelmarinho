@@ -1,4 +1,4 @@
-![banner](White%20Minimalist%20Profile%20LinkedIn%20Banner(1).png)
+![banner](banner.png)
 
 # >_ Rafael Marinho
 **Back-end Developer** 
@@ -45,17 +45,7 @@ Desenvolvedor Back-End com foco em Python 3 e APIs REST. Experiência em constru
 
 ### 📊 GitHub Statistics  
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=midnight-purple&include_all_commits=false"
-    />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" height="200" align="center"> <br>  
-  
-</div>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=fhaelmarinho&theme=cobalt&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
