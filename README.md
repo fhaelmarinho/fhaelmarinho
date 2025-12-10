@@ -4,12 +4,26 @@
 **Back-end Developer** 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
-🚀 Back-End Developer Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos nacionais e europeus, priorizando a entrega contínua. </p>
-<p>💡 Meu Diferencial: A experiência complementar em UX Design e Product Ownership me permite atuar na intersecção entre o código e o negócio. Garanto que as entregas técnicas estejam alinhadas à estratégia de produto e à experiência do usuário.</p>
+
+🇧🇷/🇵🇹 
+<br>
+<br>
+  🚀 Desenvolvedor Back-End Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos nacionais e europeus, priorizando a entrega contínua.
+  <br>
+  💡 Meu Diferencial: A experiência complementar em UX Design e Product Ownership me permite atuar na intersecção entre o código e o negócio. Garanto que as entregas técnicas estejam alinhadas à estratégia de produto e à experiência do usuário.
+<br>
+<br>
+🇬🇧/🇺🇸
+<br>
+<br>
+🚀 Back-End Developer Python focused on building robust and scalable RESTful APIs using FastAPI. I have experience with relational databases (PostgreSQL, MySQL). I have worked in agile teams (Scrum, Kanban) in both national and European contexts, prioritizing continuous delivery.
+<br>
+💡 My Key Differentiator: Complementary experience in UX Design and Product Ownership allows me to operate at the intersection of code and business. I ensure that technical deliveries are aligned with the product strategy and the user experience.
+
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Find me arround the web  
 
 <div> 
   <a href="https://www.linkedin.com/in/fhaelmarinho" target="_blank">
@@ -21,8 +35,8 @@
   <a href="mailto:fhaelmarinho@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.calendly.com/fhaelmarinhodev/consultoria" target="_blank">
-    <img src="https://img.shields.io/badge/Calendly-126fa5?style=for-the-badge&logo=calendly&logoColor=white" alt="calendly">
+  <a href="https://www.instagram.com/fhaelmarinho" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-126fa5?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   
 </div>  
 
