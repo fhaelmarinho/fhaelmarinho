@@ -4,7 +4,8 @@
 **Back-end Developer** 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
-Desenvolvedor Back-End com foco em Python 3 e APIs REST. Experiência em construção e manutenção de serviços escaláveis com FastAPI e Flask, integração com bancos de dados, pipelines de dados, testes automatizados e práticas de DevOps com Docker, GitHub Actions, CI/CD, Linux e AWS). Forte diferencial na área de produto, com vivência prévia como Arquiteto de Informação e Product Owner, garantindo que as entregas técnicas estejam alinhadas à estratégia de negócio e à usabilidade. 
+🚀 Back-End Developer Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos nacionais e europeus, priorizando a entrega contínua. </p>
+<p>💡 Meu Diferencial: A experiência complementar em UX Design e Product Ownership me permite atuar na intersecção entre o código e o negócio. Garanto que as entregas técnicas estejam alinhadas à estratégia de produto e à experiência do usuário.</p>
 
 ---
 
@@ -27,25 +28,33 @@ Desenvolvedor Back-End com foco em Python 3 e APIs REST. Experiência em constru
 
 ---
 
-### 🛠️ Languages and Technologies  
+### 🛠️ Tech Stack
 
-<div style="display: inline_block">
-   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-8e00cd?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-8e00cd?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-8e00cd?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-8e00cd?style=for-the-badge&logo=git&logoColor=white"> 
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-8e00cd?style=for-the-badge&logo=linux&logoColor=white""> 
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-8e00cd.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-</div>  
+<div>
 
----
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-### 📊 GitHub Statistics  
+**Frameworks & Libraries**<br/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fhaelmarinho&theme=cobalt&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+**Database & Cloud**<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+
+**DevOps & Tools**<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
 
 ---
 
@@ -67,34 +76,14 @@ Desenvolvedor Back-End com foco em Python 3 e APIs REST. Experiência em constru
 
 ### 📌 Destaques Recentes
 
-🔹 **[Análise de Dados - Portal da Transparência](https://github.com/fhaelmarinho/analise_de_dados-portal_da_transparencia)**  
-Coleta, limpeza e visualização de dados públicos com Pandas e Matplotlib.  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-🔹 **[Busca CEP](https://buscacepfastapi-production.up.railway.app/docs)**  
-Consulta de endereços que interage com a API da ViaCEP para obter os dados de localização.  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-🔹 **[Auto Weather Bot](https://github.com/fhaelmarinho/auto_weather)**  
-Bot de clima com integração via API do Telegram e backend em FastAPI.  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-🔹 **[Spotify Recommendation](https://github.com/fhaelmarinho/spotify_recommendations)**  
-API REST com recomendações de músicas baseada em gêneros e artistas.  
-![REST API](https://img.shields.io/badge/-REST%20API-4CAF50?style=flat&logo=swagger&logoColor=white)
-
-🔹 **[100 Days of Code](https://github.com/fhaelmarinho/100DaysOfCode)**  
-Repositório com desafios diários, prática de lógica e projetos com Python.  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-🔹 **[Conversor de PDF para Docx](https://github.com/fhaelmarinho/PDFtoDOCX)**  
-App com interface web para conversão automática de arquivos.  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-🔹 **[API Amazon](https://github.com/fhaelmarinho/Amazon-API/blob/main/main.py)**  
-Script Python que interage com a API da Amazon para obter dados em tempo real.  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
+| Projeto | Descrição | Tech Stack |
+| :---- | :---- | :---- |
+| **[Análise Transparência](https://github.com/fhaelmarinho/analise_de_dados-portal_da_transparencia)** | Coleta, limpeza e visualização de dados públicos. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
+| **[Busca CEP API](https://buscacepfastapi-production.up.railway.app/docs)** | Consulta de endereços integrada à ViaCEP. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **[Auto Weather Bot](https://github.com/fhaelmarinho/auto_weather)** | Bot de clima com API do Telegram. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **[Spotify Recommender](https://github.com/fhaelmarinho/spotify_recommendations)** | API de recomendação baseada em gêneros. | ![REST API](https://img.shields.io/badge/-REST-4CAF50?logo=swagger&logoColor=white) |
+| **[PDF to Docx](https://github.com/fhaelmarinho/PDFtoDOCX)** | Conversor automático com interface web. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **[Amazon Scraper](https://github.com/fhaelmarinho/Amazon-API)** | Monitoramento de preços em tempo real. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 ---
 
 Made with 💜 by **Rafael Marinho**  
