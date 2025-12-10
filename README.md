@@ -89,9 +89,17 @@ Key Differentiator: Complementary experience in UX Design and Product Ownership 
 
 ---
 
-### 📌 Destaques Recentes
+### 📊 GitHub Statistics
 
-| Projeto | Descrição | Tech Stack |
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhaelmarinho&mode=daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE" alt="GitHub Stats" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhaelmarinho&theme=midnight_purple" alt="Profile Details" width="65%" />
+
+---
+
+### 📌 Projects
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Análise Transparência](https://github.com/fhaelmarinho/analise_de_dados-portal_da_transparencia)** | Coleta, limpeza e visualização de dados públicos. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
 | **[Busca CEP API](https://buscacepfastapi-production.up.railway.app/docs)** | Consulta de endereços integrada à ViaCEP. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
