@@ -2,9 +2,12 @@
 
 # >_  Rafael Marinho 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Profile+In+Development+%7C+Code+in+Progress!;Back-end+Developer+%7C+Python+Expert" alt="Typing SVG" />
+  </a>
+</div>
+<br>
 🇧🇷/🇵🇹 
 <br>
      Desenvolvedor Back-End Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos   nacionais e europeus, priorizando a entrega contínua.
