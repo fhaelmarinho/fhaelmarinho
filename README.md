@@ -7,18 +7,16 @@
 
 🇧🇷/🇵🇹 
 <br>
-<br>
-  🚀 Desenvolvedor Back-End Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos nacionais e europeus, priorizando a entrega contínua.
+     Desenvolvedor Back-End Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos   nacionais e europeus, priorizando a entrega contínua.
   <br>
-  💡 Meu Diferencial: A experiência complementar em UX Design e Product Ownership me permite atuar na intersecção entre o código e o negócio. Garanto que as entregas técnicas estejam alinhadas à estratégia de produto e à experiência do usuário.
+Diferencial: A experiência complementar em UX Design e Product Ownership me permite atuar na intersecção entre o código e o negócio. Garanto que as entregas técnicas estejam alinhadas à estratégia de produto e à experiência do usuário.
 <br>
 <br>
 🇬🇧/🇺🇸
 <br>
+Back-End Developer Python focused on building robust and scalable RESTful APIs using FastAPI. I have experience with relational databases (PostgreSQL, MySQL). I have worked in agile teams (Scrum, Kanban) in both national and European contexts, prioritizing continuous delivery.
 <br>
-🚀 Back-End Developer Python focused on building robust and scalable RESTful APIs using FastAPI. I have experience with relational databases (PostgreSQL, MySQL). I have worked in agile teams (Scrum, Kanban) in both national and European contexts, prioritizing continuous delivery.
-<br>
-💡 My Key Differentiator: Complementary experience in UX Design and Product Ownership allows me to operate at the intersection of code and business. I ensure that technical deliveries are aligned with the product strategy and the user experience.
+Key Differentiator: Complementary experience in UX Design and Product Ownership allows me to operate at the intersection of code and business. I ensure that technical deliveries are aligned with the product strategy and the user experience.
 
 
 ---
