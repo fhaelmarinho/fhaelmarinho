@@ -52,12 +52,15 @@ Desenvolvedor Back-End com foco em Python 3 e APIs REST. Experiência em constru
 ### 🏆 Certifications and Achievements  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img alt="Scrum Foundations" height="120" src="https://images.credly.com/images/ffa0f61c-3cdf-401c-b602-98150552c644/blob"/>
+  <img alt="AWS Generative IA" height="120" src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob"/>
   <img alt="Python Badge" height="120" src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" />
   <img alt="Python Fundamentals" height="120" src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" />
   <img alt="GitHub Certification" height="120" src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" />
   <img alt="Notion Shield" height="120" src="https://hermes.dio.me/courses/badge/04e7459a-d32e-4839-b13b-e35a590242a4.png" />
   <img alt="Data Beginer" height="120" src="https://bip.brightspace.com/31b3293b-2f2a-4c20-ae81-70694e5d5ddc/d2l/awards/v2/openbadges/394/badge/image?shareType=4" />
   <img alt="Logica de Programacao" height="120" src="https://assets.dio.me/0JQqr8ZwT-UxlnECL_OiT33rG3DrDD_Lc1BCMsn_iso/f:webp/h:120/q:80/L3RyYWNrcy8zZjAzZTNmNS03Nzk1LTQ1NzktYTI1YS0wZTk1ODdlMGRmNzcucG5n" />
+  
 </div>  
 
 ---
