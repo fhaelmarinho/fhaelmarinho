@@ -72,7 +72,7 @@ Key Differentiator: Complementary experience in UX Design and Product Ownership 
 
 ### 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhaelmarinho&mode=daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE" alt="GitHub Stats" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhaelmarinho&theme=midnight_purple" alt="Profile Details" width="65%" />
 
@@ -91,4 +91,7 @@ Key Differentiator: Complementary experience in UX Design and Product Ownership 
 
 ---
 
-Made with 💜 by **Rafael Marinho**  
+
+<p align="center">
+    Made with 💜 by <b>Rafael Marinho</b>
+</p>
