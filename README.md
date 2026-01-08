@@ -83,7 +83,7 @@ Key Differentiator: Complementary experience in UX Design and Product Ownership 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Análise Transparência](https://github.com/fhaelmarinho/analise_de_dados-portal_da_transparencia)** | Coleta, limpeza e visualização de dados públicos. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
-| **[Busca CEP API](https://buscacepfastapi-production.up.railway.app/docs)** | Consulta de endereços integrada à ViaCEP. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **[Busca CEP API]([https://buscacepfastapi-production.up.railway.app/docs](https://busca-cep-fast-api.vercel.app/docs)** | Consulta de endereços integrada à ViaCEP. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
 | **[Auto Weather Bot](https://github.com/fhaelmarinho/auto_weather)** | Bot de clima com API do Telegram. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | **[Spotify Recommender](https://github.com/fhaelmarinho/spotify_recommendations)** | API de recomendação baseada em gêneros. | ![REST API](https://img.shields.io/badge/-REST-4CAF50?logo=swagger&logoColor=white) |
 | **[PDF to Docx](https://github.com/fhaelmarinho/PDFtoDOCX)** | Conversor automático com interface web. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
