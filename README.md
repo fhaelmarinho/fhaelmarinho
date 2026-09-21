@@ -4,25 +4,25 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Profile+In+{Development}+%7C+Code+in+Progress!;Back-End+Developer+%7C+Python+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Profile+In+{Development}+%7C+Code+in+Progress!;Full-stack+Developer+%7C+Python+Expert" alt="Typing SVG" />
   </a>
 </div>
 <br>
-🇧🇷/🇵🇹 
-<br>
-     Desenvolvedor Back-End Python focado em construir APIs RESTful robustas e escaláveis usando FastAPI. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL). Atuação em squads ágeis (Scrum, Kanban) em contextos   nacionais e europeus, priorizando a entrega contínua.
-  <br>
-Diferencial: A experiência complementar em UX Design e Product Ownership me permite atuar na intersecção entre o código e o negócio. Garanto que as entregas técnicas estejam alinhadas à estratégia de produto e à experiência do usuário.
-<br>
-<br>
-🇬🇧/🇺🇸
-<br>
-Back-End Developer Python focused on building robust and scalable RESTful APIs using FastAPI. I have experience with relational databases (PostgreSQL, MySQL). I have worked in agile teams (Scrum, Kanban) in both national and European contexts, prioritizing continuous delivery.
-<br>
-Key Differentiator: Complementary experience in UX Design and Product Ownership allows me to operate at the intersection of code and business. I ensure that technical deliveries are aligned with the product strategy and the user experience.
+🇧🇷 Português
 
+Desenvolvedor Web Full-Stack | Python, FastAPI, Django, JavaScript & UX Architecture
 
----
+Desenvolvedor Full-Stack focado na criação de aplicações web completas, combinando APIs RESTful performáticas no back-end (FastAPI, Django, PostgreSQL) com interfaces funcionais e centradas no usuário no front-end. Atuação em squads ágeis (Scrum, Kanban) em contextos nacionais e internacionais (Brasil e Europa).
+
+Diferencial: A bagagem em Mestrado em Ciência da Informação, UX/Arquitetura de Informação e Product Ownership me permite alinhar código limpo e arquitetura escalável à estratégia de produto, usabilidade e entregas de alto valor para o negócio.
+
+🇬🇧 English
+
+Full-Stack Web Developer | Python, FastAPI, Django, JavaScript & UX Architecture
+
+Full-Stack Developer focused on building end-to-end web applications, combining high-performance RESTful APIs on the back-end (FastAPI, Django, PostgreSQL) with user-centered front-end interfaces. Experienced in agile squads (Scrum, Kanban) across cross-border environments (BR & EU).
+
+Key Differentiator: An MSc in Information Science, coupled with a background in UX/Information Architecture and Product Ownership, enables me to bridge software engineering with user experience and business strategy.
 
 ### 🌐 Find me arround the web  
 
