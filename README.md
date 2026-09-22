@@ -8,6 +8,7 @@
   </a>
 </div>
 <br>
+
 🇧🇷 Português
 
 Desenvolvedor Web Full-Stack | Python, FastAPI, Django, JavaScript & UX Architecture
@@ -17,6 +18,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações web completas, comb
 Diferencial: A bagagem em Mestrado em Ciência da Informação, UX/Arquitetura de Informação e Product Ownership me permite alinhar código limpo e arquitetura escalável à estratégia de produto, usabilidade e entregas de alto valor para o negócio.
 
 🇬🇧 English
+
 Full-Stack Web Developer | Python, FastAPI, Django, JavaScript & UX Architecture
 
 Full-Stack Developer focused on building end-to-end web applications, combining high-performance RESTful APIs on the back-end (FastAPI, Django, PostgreSQL) with user-centered front-end interfaces. Experienced in agile squads (Scrum, Kanban) across cross-border environments (BR & EU).
@@ -55,11 +57,15 @@ Key Differentiator: An MSc in Information Science, coupled with a background in 
 
 ### 🎓 Education
 
-MBA in Software Engineering (UTFPR - Federal University of Technology Paraná) — In Progress
-Postgraduate Certificate in Full-Stack Development (Faculdade Focus) - 2026
-Bachelor of Technology in Internet Systems (UNIFACS – Laureate International Universities) - 2016
-Master in Information Science (Federal University of Bahia) - 2012
-Bachelor’s Degree in Library and Information Science (Federal University of Bahia) - 2009
+- MBA in Software Engineering (UTFPR - Federal University of Technology Paraná) — In Progress
+
+- Postgraduate Certificate in Full-Stack Development (Faculdade Focus) — 2026
+
+- Bachelor of Technology in Internet Systems (UNIFACS – Laureate International Universities) — 2016
+
+- Master in Information Science (Federal University of Bahia) — 2012
+
+- Bachelor’s Degree in Library and Information Science (Federal University of Bahia) — 2009
 
 ---
 
