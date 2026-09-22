@@ -17,7 +17,6 @@ Desenvolvedor Full-Stack focado na criação de aplicações web completas, comb
 Diferencial: A bagagem em Mestrado em Ciência da Informação, UX/Arquitetura de Informação e Product Ownership me permite alinhar código limpo e arquitetura escalável à estratégia de produto, usabilidade e entregas de alto valor para o negócio.
 
 🇬🇧 English
-
 Full-Stack Web Developer | Python, FastAPI, Django, JavaScript & UX Architecture
 
 Full-Stack Developer focused on building end-to-end web applications, combining high-performance RESTful APIs on the back-end (FastAPI, Django, PostgreSQL) with user-centered front-end interfaces. Experienced in agile squads (Scrum, Kanban) across cross-border environments (BR & EU).
@@ -51,6 +50,16 @@ Key Differentiator: An MSc in Information Science, coupled with a background in 
 | **Frameworks & Libraries** | <img src="https://img.shields.io/badge/Django-8A2BE2?style=for-the-badge&logo=django&logoColor=white" alt="Django" />   <img src="https://img.shields.io/badge/FastAPI-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-8A2BE2?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> |
 | **Database & Cloud** | <img src="https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> |
 | **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
+
+---
+
+### 🎓 Education
+
+MBA in Software Engineering (UTFPR - Federal University of Technology Paraná) — In Progress
+Postgraduate Certificate in Full-Stack Development (Faculdade Focus) - 2026
+Bachelor of Technology in Internet Systems (UNIFACS – Laureate International Universities) - 2016
+Master in Information Science (Federal University of Bahia) - 2012
+Bachelor’s Degree in Library and Information Science (Federal University of Bahia) - 2009
 
 ---
 
